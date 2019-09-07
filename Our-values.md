@@ -1,4 +1,4 @@
-#OUR COMPANY VALUES
+# OUR COMPANY VALUES
 
 
 ### We want to be the world's best and want to achieve audacious goals

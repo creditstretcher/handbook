@@ -1,4 +1,4 @@
-**Our Organisational Structure Pre-seed to Seed**
+#Our Organisational Structure Pre-seed to Seed
 
 ![alt Organisational Structure Chart](https://github.com/creditstretcher/handbook/blob/master/assets/images/Organisational-structure.png?raw=true)
 

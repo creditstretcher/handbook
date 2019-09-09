@@ -61,5 +61,3 @@
 ### Everybody only wins when nobody loses.
 * We believe that everybody wins when nobody loses and incorporate this in every decision we make.
 
-
-### Test

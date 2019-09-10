@@ -2,7 +2,7 @@
 
 This section is about how we work remotely
 
-For the reasoning behind why we choose remote work please read: [Why Remote?](https://github.com/creditstretcher/handbook/blob/master/Why-remote.md)
+For the reasoning behind why we choose remote work please read: [Why Remote?](https://github.com/creditstretcher/handbook/blob/master/why-remote.md)
 
 
 ## Communication
@@ -41,10 +41,10 @@ Note taking is an important part of a meeting else no one will remember what was
 The responsible party will create a google drive document inside the CreditStretcher A/S > Meeting Notes folder
 
 The document shall follow the following naming convention:
-![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/Meeting-notes-naming.png?raw=true)
+![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-naming.png?raw=true)
 
 Inside it the responsible party will have prepaired an agenda which will have the headlines inside the document like this:
-![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/Meeting-notes-agenda.png?raw=true)
+![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-agenda.png?raw=true)
 
 Throughout the meeting everyone will participate in writing the notes in the document under the agenda headlines.
 

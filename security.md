@@ -13,7 +13,7 @@ This ensures that if somebody gains access to your laptop, but doesn't have your
 Make sure to use strict sleep and require password settings on your laptop. 
 
 On mac the hard drive is automatically encrypted out of the box, but check that it is not turned off. It should look like this
-![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/Mac-hard-drive-encryption-settings.png?raw=true)
+![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/mac-hard-drive-encryption-settings.png?raw=true)
 
 If you use windows or linux then various tools are available. **It is your own responsibility**. Feel free to ask a fellow employee for help if you need it
 

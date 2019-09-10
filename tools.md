@@ -17,6 +17,11 @@ List and purpose
 ## Google Drive
 File sharing
 ## Zoom 
+We use zoom as our default video call tool because simply it does the job in everything from small one on one meetings to large meetings. 
+
+The important thing is that everyone use the same tool so we don't waste time agreeing upon and installing various video call tools. 
+
+Sign up at the [Zoom website](https://zoom.us/) and remember to use your creditstretcher email.
 ### Why we use it
 ### Link til Video calls
 ## Trello

@@ -2,8 +2,6 @@
 This section of the handbook is for the parts that are dev team specific. 
 
 
-
-
 ## How we use Trello
 **Board seperation**
 

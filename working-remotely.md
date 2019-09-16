@@ -33,7 +33,7 @@ At each meeting there must be a meeting host. The host is the one who calls the 
 
 [Zoom](https://github.com/creditstretcher/handbook/blob/master/tools.md#zoom) is our video call provider of choice. 
 
-The host will be the one setting up the time for the meeting with [calendar invites](https://github.com/creditstretcher/handbook/blob/master/tools.md#calendar) calendar invites and will be the one creating the zoom meeting.
+The host will be the one setting up the time for the meeting with [calendar invites](https://github.com/creditstretcher/handbook/blob/master/tools.md#calendar) and will be the one creating the zoom meeting.
 
 #### Taking notes at meetings
 

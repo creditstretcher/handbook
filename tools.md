@@ -1,8 +1,9 @@
 # Tools
 This is a list of the tools that we use and a quick introduction to them as well.
 ## Calendar
-The responsible party or the host of a meeting is responsible for sending out calendar invites to attendees by email.
-The calendar invite shall include the correct time, specify location (if physical location) or if it will be on Zoom (if the meeting is a video call) and an agenda in the notes.
+The host of a meeting is responsible for sending out calendar invites to attendees by email.
+The calendar invite shall include the correct time, specify location (if physical location) or if it will be on Zoom (if the meeting is a video call) and an agenda in the notes. 
+Go here to see how we conduct [video calls](https://github.com/creditstretcher/handbook/blob/master/working-remotely.md#video-calls).
 ## Slack
 We use Slack for chat and overall coommunication within the company.
 ### Channels

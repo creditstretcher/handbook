@@ -11,4 +11,4 @@
 
 
 ## Development specific sections
-* [Working Remotely](https://github.com/creditstretcher/handbook/blob/master/development/development.md)
+* [Development](https://github.com/creditstretcher/handbook/blob/master/development/development.md)

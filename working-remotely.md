@@ -22,6 +22,7 @@ When you communicate asynchronous it's very important to eliminate as much as po
 Send the message to all the relevant parties. Use a Slack Channels as much as possible. Think about not excluding 
 
 **We do expect a response time of maximum 24 hours**
+(Note: If you're being contacted in a case of emergency, we expect you to respond immediately)
 
 **All communication and material must be in English if any party doesn't understand Danish**
 

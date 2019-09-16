@@ -9,13 +9,19 @@ We use Slack for chat and overall coommunication within the company.
 ### Channels
 List and purpose
 - #general
-- - This channel is for workspace-wide communication and announcements. All members are in this channel.
+  - This channel is for workspace-wide communication and announcements. All members are in this channel.
 - #random
+  - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
 - #development
+  - To discuss development, make status updates etc.
 - #nice-to-know
+  - Additional Information - Good background knowledge
 - #marketing
+  - To discuss marketing initiatives.
 - #dev-team
+  - Internal communication within development team.
 - #presentation
+  - Documentation, marketing, templates, presentation.
 ## Google Drive
 File sharing
 ## Zoom 

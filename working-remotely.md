@@ -24,7 +24,7 @@ Send the message to all the relevant parties. Use a Slack Channels as much as po
 **We do expect a response time of maximum 24 hours**
 (Note: If you're being contacted in a case of emergency, we expect you to respond immediately)
 
-**All communication and material must be in English if any party doesn't understand Danish**
+**All communication and material must be in English**
 
 ### Video calls
 Some issues are just better discussed over video chat and feel free to setup meetings if you feel it's necessary.

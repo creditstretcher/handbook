@@ -32,7 +32,7 @@ At each meeting there is assigned a responsible party. The responsible party is 
 
 [Zoom](https://github.com/creditstretcher/handbook/blob/master/tools.md#zoom) is our video call provider of choice. 
 
-The responsible party will be the one setting up the time for the meeting with calendar invites and will be the one createing the zoom meeting.
+The responsible party will be the one setting up the time for the meeting with calendar invites and will be the one creating the zoom meeting.
 
 #### Taking notes at meetings
 

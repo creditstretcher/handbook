@@ -9,6 +9,7 @@ We use Slack for chat and overall coommunication within the company.
 ### Channels
 List and purpose
 - #general
+- - This channel is for workspace-wide communication and announcements. All members are in this channel.
 - #random
 - #development
 - #nice-to-know

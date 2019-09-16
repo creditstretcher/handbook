@@ -29,23 +29,22 @@ Send the message to all the relevant parties. Use a Slack Channels as much as po
 ### Video calls
 Some issues are just better discussed over video chat and feel free to setup meetings if you feel it's necessary.
 
-At each meeting there is assigned a responsible party. The responsible party is the one who hosts the meeting and makes sure that the agenda is followed. He is also the one responsible for taking notes (even though the notes are taken collectively). 
+At each meeting there must be a meeting host. The host is the one who calls the meeting and makes sure that the agenda is followed. The agenda must be prepaired and sent to all meeting participants by the host in reasonable time beforehand. The host is also responsible for notes being taken during the meeting. 
 
 [Zoom](https://github.com/creditstretcher/handbook/blob/master/tools.md#zoom) is our video call provider of choice. 
 
-The responsible party will be the one setting up the time for the meeting with calendar invites and will be the one creating the zoom meeting.
+The host will be the one setting up the time for the meeting with calendar invites and will be the one creating the zoom meeting.
 
 #### Taking notes at meetings
 
 Note taking is an important part of a meeting else no one will remember what was agreed upon or what was said, and instead of each person writing their own notes separately we do it collectively in a google docs document.
 
-The responsible party will create a google drive document inside the CreditStretcher A/S > Meeting Notes folder
+The host will create a google drive document inside the CreditStretcher A/S > Meeting Notes folder
 
 The document shall follow the following naming convention:
 ![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-naming.png?raw=true)
 
-Inside it the responsible party will have prepaired an agenda which will have the headlines inside the document like this:
+Inside it the host will have prepaired an agenda which will have the headlines inside the document like this:
 ![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-agenda.png?raw=true)
 
 Throughout the meeting everyone will participate in writing the notes in the document under the agenda headlines.
-

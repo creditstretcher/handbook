@@ -22,6 +22,8 @@ We use zoom as our default video call tool because simply it does the job in eve
 The important thing is that everyone use the same tool so we don't waste time agreeing upon and installing various video call tools. 
 
 Sign up at the [Zoom website](https://zoom.us/) and remember to use your creditstretcher email.
+
+Go here to see how we conduct [video calls](https://github.com/creditstretcher/handbook/blob/master/working-remotely.md#video-calls).
 ### Why we use it
 ### Link til Video calls
 ## Trello

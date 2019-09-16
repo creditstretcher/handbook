@@ -1,6 +1,6 @@
 # Our Organisational Structure Pre-seed to Seed
 
-![alt Organisational Structure Chart](https://github.com/creditstretcher/handbook/blob/master/assets/images/organisational-structure.png?raw=true)
+![alt Organisational Structure Chart](https://github.com/creditstretcher/handbook/blob/master/assets/images/organisation-structure-%20preseed-to-seed.JPG?raw=true)
 
 _Green: advisory board/board_
 

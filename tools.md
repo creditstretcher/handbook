@@ -11,7 +11,9 @@ List and purpose
 - #general
   - This channel is for workspace-wide communication and announcements. All members are in this channel.
 - #random
-  - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+  - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels. 
+  - The purpose of this is to create social cohesion within our team, therefore we encourage everyone to use it.
+  - Because we are a remote company we don't see each other every day, and this is to act as the daily watercooler talk
 - #development
   - To discuss development, make status updates etc.
 - #nice-to-know

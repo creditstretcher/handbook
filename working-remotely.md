@@ -35,7 +35,7 @@ At each meeting there must be a meeting host. The host is the one who calls the 
 
 The host will be the one setting up the time for the meeting with [calendar invites](https://github.com/creditstretcher/handbook/blob/master/tools.md#calendar) and will be the one creating the zoom meeting.
 
-#### Taking notes at meetings
+### Taking notes at meetings
 
 Note taking is an important part of a meeting else no one will remember what was agreed upon or what was said, and instead of each person writing their own notes separately we do it collectively in a google docs document.
 

@@ -45,6 +45,12 @@ The document shall follow the following naming convention:
 ![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-naming.png?raw=true)
 
 Inside it the host will have prepaired an agenda which will have the headlines inside the document like this:
-![alt Meeting notes naming](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-agenda.png?raw=true)
+![alt Meeting notes agenda](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-agenda.png?raw=true)
 
 Throughout the meeting everyone will participate in writing the notes in the document under the agenda headlines.
+
+## Using the notes template
+To create a note document quickly and to help with the right formatting it is recommended to use the template:
+![alt Meeting notes template](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-template.png?raw=true)
+You will find the document inside the meeting notes folder. Make a copy of it, and fill in the values.
+

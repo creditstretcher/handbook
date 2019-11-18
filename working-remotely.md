@@ -54,3 +54,4 @@ To create a note document quickly and to help with the right formatting it is re
 ![alt Meeting notes template](https://github.com/creditstretcher/handbook/blob/master/assets/images/meeting-notes-template.png?raw=true)
 You will find the document inside the meeting notes folder. Make a copy of it, and fill in the values.
 
+🚫 Don't edit the original document 

@@ -21,6 +21,9 @@ If you use windows or linux then various tools are available. **It is your own r
 
 If you have sensitive data you need to share with a fellow employees (especially stuff like certificates and api keys for developers) don't send it over Slack, email or similar. It could happen that somebodies email or Slack account got hacked. In that case we don't want that to compromise our security. Make sure you use a tool which is end to end encrypted and where the data gets deleted shortly afterwards.
 
+For this we use the tool Wickr [read more here](https://github.com/creditstretcher/handbook/blob/master/tools.md#wickr).
+
+
 ## Make sure the person you are sending it to is who they say they are
 A common form of social engineering is that a hacker will pretend to be the CEO, CTO or similar of a company and ask an employee to urgently give access to sensitive data. Therefore before you comply to any of such requests talk with the person on the phone and confirm that they are who they say they are.
 

@@ -47,3 +47,12 @@ If you haven't received an message of your new email address or if you have any 
 ### Set up company email on your computer
 Please see the following link for how to set up your new CreditStretcher email on your own devices:
 https://help.one.com/hc/en-us/sections/115001513365-Email-setup
+
+## Wickr
+For sharing of sensitive data like passwords or certificates we use Wickr. In general it should be used for things that you would like to share with your colleagues but you know is sensitive.
+
+### Why Wickr
+Wickr is a military grade end to end encrypted instant communication tool where you can set the messages to be deleted after e.g. 24 hours. That way it is highly secure to send data here.
+
+### How to set it up
+Ask David for an invite and follow the instructions (takes 10 min)

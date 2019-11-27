@@ -55,4 +55,4 @@ For sharing of sensitive data like passwords or certificates we use Wickr. In ge
 Wickr is a military grade end to end encrypted instant communication tool where you can set the messages to be deleted after e.g. 24 hours. That way it is highly secure to send data here.
 
 ### How to set it up
-Ask David for an invite and follow the instructions (takes 10 min)
+Ask David Møller for an invite and follow the instructions (takes 10 min)

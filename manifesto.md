@@ -7,7 +7,7 @@ We are CreditStretcher. And these are the things we believe in.
 These are the core values shared by everyone at CreditStretcher. Values we fight for every day.
 
 
-### Business finance sucks. We make it suck less.
+##### Business finance sucks. We make it suck less.
 * Let's be honest, who doesn't think business finance sucks? It will always suck. If our goal was to make it awesome, or breathtaking or fill in the blank platitude, we'd be lying to ourselves and our customers. Instead we strive each year to make business finance suck just a little bit less than it did the year before. Now that feels realistic.
 
 

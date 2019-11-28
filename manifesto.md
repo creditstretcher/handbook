@@ -8,15 +8,18 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 
 
 * Business finance sucks. We make it suck less.
+Let's be honest, who doesn't think business finance sucks? It will always suck. If our goal was to make it awesome, or breathtaking or fill in the blank platitude, we'd be lying to ourselves and our customers. Instead we strive each year to make business finance suck just a little bit less than it did last year. Now that feels realistic.
+
+
 * Everyone only wins, if nobody loses.
 * Business can be a force for good.
-* Radical transparency. (simple communication)
+* Honest transparency. (simple communication)
 * Empathy and service.
 * Knowledge sharing and education (financial literacy) (Don’t give a man a fish)
 * Common sense (independent thinking)
 * Human centered capitalism (Andrew Yang)
 * First principles (innovative thinking, re-engineering the solution, not 5% better)
-* Creative (not in accounting, but in communication).
+* Creative.
 * Continuous learning. Move fast and figure out along the way.
 * Freedom. Financial freedom. Remote company.
 * Conversational customer communication

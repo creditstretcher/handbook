@@ -9,8 +9,8 @@ CreditStretcher Believe.
 These are the core values shared by everyone at CreditStretcher. Values we fight for every day.
 
 
-Business finance sucks. We make it suck less.
-Everyone only wins, if nobody loses.
+* Business finance sucks. We make it suck less.
+* Everyone only wins, if nobody loses.
 Business can be a force for good.
 Radical transparency. (simple communication)
 Empathy and service.

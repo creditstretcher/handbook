@@ -35,3 +35,4 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * Small teams.
 * Automization (do it once, properly. And then not have to do it again, scalability). Automating away the mundane, repetitive and allowing people to do value adding and meaningful work. 
 * Data-driven decision making
+* Never, I told you so

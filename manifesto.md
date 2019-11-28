@@ -1,4 +1,6 @@
-#Business finance sucks. We make it suck less.
+### OUR COMPANY MANIFESTO
+
+### Business finance sucks. We make it suck less.
 
 We are CreditStretcher. And these are the things we believe in.
 

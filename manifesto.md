@@ -18,7 +18,7 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * We built CreditStrecher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
 
 #### Honest transparency.
-Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
+* Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
 
 #### Empathy and service.
 * For too long marketers and advertisers have manipulated people to buy things they don't need. We promise to our customers to communicate to them with empathy and to provide them only what they (really) need.
@@ -45,7 +45,7 @@ Telling the truth is the only option. To ourselves, our teammates and our custom
 * We are a remote company. This means our entire team can work wherever they want. Our belief is that the traditional office setting is barbaric, antiquated and short-sighted.
 
 #### Conversational customer communication.
-Humans don't say "I apologise for the inconvenience I've caused". We say "sorry". That's it. We've become acustomed to hearing that spiel because almost every company uses it. But its cold and impersonal. Instead, we speak to people like people. That means we say "I'm sorry" instead of apologising on behalf of the company and we speak to customers like we would to a person in the street. Like a human!
+* Humans don't say "I apologise for the inconvenience I've caused". We say "sorry". That's it. We've become acustomed to hearing that spiel because almost every company uses it. But its cold and impersonal. Instead, we speak to people like people. That means we say "I'm sorry" instead of apologising on behalf of the company and we speak to customers like we would to a person in the street. Like a human!
 
 #### Don’t make me think.
 * Why are apps and products often so difficult for people to use? Maybe because the people who made it didn't put their customers needs first. Our first priority is our customers. And that means creating a product that is simple to use, doesn't freak them out and delivers what they expected every time they use it.
@@ -53,10 +53,10 @@ Humans don't say "I apologise for the inconvenience I've caused". We say "sorry"
 #### Intrinsic motivation.
 * When we work on what we are naturally motivated to work on we give our all. Likewise, when we do tasks we aren't motivated for we tend to do only what is required and nothing more. We promise to all of our employees that we will try our best to give them as much time to spend on what motivates them, saving the tasks for others who are more motivated by them.
 
-#### Even the playing field
+#### Even the playing field.
 * Factoring is difficult for SMEs. We make it easy. In fact, we promise that every product we create will be easy for SMEs to use.
 
-#### Be the painkiller
+#### Be the painkiller.
 * You can think of us like financial pain relief. Ready to use whenever you need it.
 
 #### Financial inclusion for SMEs.
@@ -68,9 +68,11 @@ Humans don't say "I apologise for the inconvenience I've caused". We say "sorry"
 #### Small teams.
 * We believe we're most effective when we work in small teams. It's a popular myth that large teams get more done. We choose to be fast and agile, instead of slow and bloated. 
 
-#### Do it once, properly
+#### Do it once, properly.
 * Automate it, and then you don't have to do it again and again and again. Rid the mundane and repetitive. Allow people to do meaningful work.
 
-* Data-driven decision making
+#### Thoughtful data-driven decision making.
+* Every business claims they're data driven. But data has one fatal flaw - it's information from the past. We prefer using a little bit of data on top of our gut and intuition to make decisions. Data is powerful but it can't solve everything. Use it wisely.
 
-* Never, I told you so
+#### Never, I told you so.
+* Because we are rewriting the rules of business finance we're often running into battle without a map. That means we're likely to get a lot of things wrong. Anyone who joins our team must revel in that environment. Therefore, we won't tolerate the words "I told you so".

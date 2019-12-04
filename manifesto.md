@@ -27,19 +27,19 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime. Our absolute goal is to make SMEs financially literate so that they can grow sustainably.
 
 #### Independent thinking.
-* Our team is made of independent thinkers who are comfortable working off script. We're not interested in employing cogs for our machine. We use automation for that. If you're indepdent, creative and a little entrepreneurial you'll fit right in here.
+* Our team is made of independent thinkers who are comfortable working off script. We're not interested in employing cogs for our machine. We use automation for that. If you're independent, creative and a little entrepreneurial you'll fit right in here.
 
 #### Human-centered capitalism.
-* We're only interested in starting businesses for the right reasons. To create products that (actually) solve humankind’s higher needs. Humans are more important than money - Andrew Yang.
+* We're only interested in starting businesses for the right reasons. To create products that (actually) solve humankind’s higher needs. "Humans are more important than money" - Andrew Yang.
 
 #### First principles
 * How do we know that the best way to do something has already been discovered? We don't. And that's why we always challenge what other people believe to be true. 5% better isn't good enough. Either we re-engineer it, or we leave it alone.
 
 #### Creativity.
-* The last legal unfair advantage that a business has over it's competitor is creativity - Bill Bernbach
+* "Creativity is the last legal unfair advantage that a business has over it's competitors" - Bill Bernbach
 
 #### Continuous learning.
-* Move fast and figure it out along the way. Everything is figureoutable - Mario Forleo
+* Move fast and figure it out along the way. "Everything is figureoutable" - Mario Forleo
 
 #### Freedom. 
 * We are a remote company. This means our entire team can work wherever they want. Our belief is that the traditional office setting is barbaric, antiquated and short-sighted.
@@ -72,7 +72,7 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * Automate it, and then you don't have to do it again and again and again. Rid the mundane and repetitive. Allow people to do meaningful work.
 
 #### Thoughtful data-driven decision making.
-* Every business claims they're data driven. But data has one fatal flaw - it's information from the past. We prefer using a little bit of data on top of our gut and intuition to make decisions. Data is powerful but it can't solve everything. Use it wisely.
+* Every tech business claims they're data driven. But data has one fatal flaw - it's information from the past. We prefer using a little bit of data on top of our gut and intuition to make decisions about our future. Data is powerful but it can't solve everything. Use it wisely.
 
 #### Never, I told you so.
 * Because we are rewriting the rules of business finance we're often running into battle without a map. That means we're likely to get a lot of things wrong. Anyone who joins our team must revel in that environment. Therefore, we won't tolerate the words "I told you so".

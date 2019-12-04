@@ -10,7 +10,6 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 #### Business finance sucks. We make it suck less.
 * Let's be honest, who doesn't think business finance sucks? It will always suck. If our goal was to make it awesome, or breathtaking or fill in the blank platitude, we'd be lying to ourselves and our customers. Instead we strive each year to make business finance suck just a little bit less than it did the year before. Now that feels realistic.
 
-
 #### Everyone only wins, when nobody loses.
 * 
 
@@ -18,14 +17,11 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 #### Business as a force for good.
 * We built CreditStrecher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
 
-
 #### Honest transparency.
 Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
 
-
 #### Empathy and service.
 * For too long marketers and advertisers have manipulated people to buy things they don't need. We promise to our customers to communicate to them with empathy and to provide them only what they (really) need.
-
 
 #### Knowledge sharing and education.
 * Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime. Our absolute goal is to make SMEs financially literate so that they can grow sustainably.
@@ -46,7 +42,7 @@ Telling the truth is the only option. To ourselves, our teammates and our custom
 * Move fast and figure it out along the way. Everything is figureoutable - Mario Forleo
 
 #### Freedom. 
-* Financial freedom. Remote company.
+* We are a remote company. This means our entire team can work wherever they want. Our belief is that the traditional office setting is barbaric, antiquated and short-sighted.
 
 #### Conversational customer communication.
 Humans don't say "I apologise for the inconvenience I've caused". We say "sorry". That's it. We've become acustomed to hearing that spiel because almost every company uses it. But its cold and impersonal. Instead, we speak to people like people. That means we say "I'm sorry" instead of apologising on behalf of the company and we speak to customers like we would to a person in the street. Like a human!
@@ -57,21 +53,23 @@ Humans don't say "I apologise for the inconvenience I've caused". We say "sorry"
 #### Intrinsic motivation.
 * When we work on what we are naturally motivated to work on we give our all. Likewise, when we do tasks we aren't motivated for we tend to do only what is required and nothing more. We promise to all of our employees that we will try our best to give them as much time to spend on what motivates them, saving the tasks for others who are more motivated by them.
 
-* Fairness (fair for everybody involved).
+#### Even the playing field
+* Factoring is difficult for SMEs. We make it easy. In fact, we promise that every product we create will be easy for SMEs to use.
 
-* Even the playing field (factoring is difficult for SME’s. We make it easier).
+#### Be the painkiller
+* You can think of us like financial pain relief. Ready to use whenever you need it.
 
-* The painkiller (using disruptive innovation). Financial pain relief.
-
-* Be in control (financial control). Financial inclusion for SMEs.
+#### Financial inclusion for SMEs.
+* We promise to create financial products that are fair and just for everyone who uses them.
 
 #### Be thoughtfully different.
 * We're all for breaking the status quo, but we don't do it just for the sake of it. If something can be drastically improved, we'll take on the challenge. 
 
+#### Small teams.
+* We believe we're most effective when we work in small teams. It's a popular myth that large teams get more done. We choose to be fast and agile, instead of slow and bloated. 
 
-* Small teams.
-
-* Automization (do it once, properly. And then not have to do it again, scalability). Automating away the mundane, repetitive and allowing people to do value adding and meaningful work.
+#### Do it once, properly
+* Automate it, and then you don't have to do it again and again and again. Rid the mundane and repetitive. Allow people to do meaningful work.
 
 * Data-driven decision making
 

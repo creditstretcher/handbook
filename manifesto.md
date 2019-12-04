@@ -15,7 +15,7 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 
 
 #### Business as a force for good.
-* We built CreditStrecher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
+* We built CreditStretcher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
 
 #### Honest transparency.
 * Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
@@ -39,7 +39,7 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * "Creativity is the last legal unfair advantage that a business has over it's competitors" - Bill Bernbach
 
 #### Continuous learning.
-* Move fast and figure it out along the way. "Everything is figureoutable" - Mario Forleo
+* Move fast and figure it out along the way. "Everything is figureoutable" - Marie Forleo
 
 #### Freedom. 
 * We are a remote company. This means our entire team can work wherever they want. Our belief is that the traditional office setting is barbaric, antiquated and short-sighted.

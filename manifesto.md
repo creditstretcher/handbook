@@ -18,23 +18,23 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 #### Business as a force for good.
 * We built CreditStrecher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
 
-
 #### Honest transparency.
 Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
-
 
 #### Empathy and service.
 * For too long marketers and advertisers have manipulated people to buy things they don't need. We promise to our customers to communicate to them with empathy and to provide them only what they (really) need.
 
+#### Knowledge sharing and education.
+* Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime. Our absolute goal is to make SMEs financially literate so that they can grow sustainably.
 
+#### Independent thinking.
+* Our team is made of independent thinkers who are comfortable working off script. We're not interested in employing cogs for our machine. We use automation for that. If you're indepdent, creative and a little entrepreneurial you'll fit right in here.
 
-* Knowledge sharing and education (financial literacy) (Don’t give a man a fish)
+#### Human-centered capitalism.
+* We're only interested in starting businesses for the right reasons. To create products that (actually) solve humankind’s higher needs. Humans are more important than money - Andrew Yang.
 
-* Common sense (independent thinking)
-
-* Human centered capitalism (Andrew Yang)
-
-* First principles (innovative thinking, re-engineering the solution, not 5% better)
+#### First principles
+* How do we know that the best way to do something has already been discovered? We don't. And that's why we always challenge what other people believe to be true. 5% better isn't good enough. Either we re-engineer it, or we leave it alone.
 
 #### Creativity.
 * The last legal unfair advantage that a business has over it's competitor is creativity - Bill Bernbach
@@ -42,7 +42,8 @@ Telling the truth is the only option. To ourselves, our teammates and our custom
 #### Continuous learning.
 * Move fast and figure it out along the way. Everything is figureoutable - Mario Forleo
 
-* Freedom. Financial freedom. Remote company.
+#### Freedom. 
+* Financial freedom. Remote company.
 
 #### Conversational customer communication.
 Humans don't say "I apologise for the inconvenience I've caused". We say "sorry". That's it. We've become acustomed to hearing that spiel because almost every company uses it. But its cold and impersonal. Instead, we speak to people like people. That means we say "I'm sorry" instead of apologising on behalf of the company and we speak to customers like we would to a person in the street. Like a human!
@@ -55,7 +56,7 @@ Humans don't say "I apologise for the inconvenience I've caused". We say "sorry"
 
 * Fairness (fair for everybody involved).
 
-* Evening the playing field (factoring is difficult for SME’s. We make it easier).
+* Even the playing field (factoring is difficult for SME’s. We make it easier).
 
 * The painkiller (using disruptive innovation). Financial pain relief.
 

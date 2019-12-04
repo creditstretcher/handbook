@@ -18,11 +18,14 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 #### Business as a force for good.
 * We built CreditStrecher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
 
+
 #### Honest transparency.
 Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
 
+
 #### Empathy and service.
 * For too long marketers and advertisers have manipulated people to buy things they don't need. We promise to our customers to communicate to them with empathy and to provide them only what they (really) need.
+
 
 #### Knowledge sharing and education.
 * Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime. Our absolute goal is to make SMEs financially literate so that they can grow sustainably.

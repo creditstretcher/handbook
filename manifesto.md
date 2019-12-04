@@ -51,7 +51,7 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * Why are apps and products often so difficult for people to use? Maybe because the people who made it didn't put their customers needs first. Our first priority is our customers. And that means creating a product that is simple to use, doesn't freak them out and delivers what they expected every time they use it.
 
 #### Intrinsic motivation.
-* When we work on what we are naturally motivated to work on we give our all. Likewise, when we do tasks we aren't motivated for we tend to do only what is required and nothing more. We promise to all of our employees that we will try our best to give them as much time to spend on what motivates them, saving the tasks for others who are more motivated by them.
+* When we work on what we are naturally motivated to work on we give our all. Likewise, when we do tasks we aren't motivated for we tend to do only what is required and nothing more. We promise to all of our employees that we will try our best to give them as much time to spend on what motivates them, saving the tasks they hate for others who are.
 
 #### Even the playing field.
 * Factoring is difficult for SMEs. We make it easy. In fact, we promise that every product we create will be easy for SMEs to use.

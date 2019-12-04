@@ -11,28 +11,64 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * Let's be honest, who doesn't think business finance sucks? It will always suck. If our goal was to make it awesome, or breathtaking or fill in the blank platitude, we'd be lying to ourselves and our customers. Instead we strive each year to make business finance suck just a little bit less than it did the year before. Now that feels realistic.
 
 
-### Everyone only wins, if nobody loses.
+#### Everyone only wins, when nobody loses.
+* 
 
 
-* Business can be a force for good.
-* Honest transparency. (simple communication)
-* Empathy and service.
+#### Business as a force for good.
+* We built CreditStrecher to be a force for good. An agent of change in a business finance market that always lets one side of the relationship down. We envision a world of cooperation, rather than bad relationships. One of financial inclusion and fair financial products for all small businesses.
+
+
+#### Honest transparency.
+Telling the truth is the only option. To ourselves, our teammates and our customers. Also, big words aren't impressive. They just make us look less smart. Simple communication, always.
+
+
+#### Empathy and service.
+* For too long marketers and advertisers have manipulated people to buy things they don't need. We promise to our customers to communicate to them with empathy and to provide them only what they (really) need.
+
+
+
 * Knowledge sharing and education (financial literacy) (Don’t give a man a fish)
+
 * Common sense (independent thinking)
+
 * Human centered capitalism (Andrew Yang)
+
 * First principles (innovative thinking, re-engineering the solution, not 5% better)
-* Creative.
-* Continuous learning. Move fast and figure out along the way.
+
+#### Creativity.
+* The last legal unfair advantage that a business has over it's competitor is creativity - Bill Bernbach
+
+#### Continuous learning.
+* Move fast and figure it out along the way. Everything is figureoutable - Mario Forleo
+
 * Freedom. Financial freedom. Remote company.
-* Conversational customer communication
-* Don’t make me think
-* Intrinsic motivation. 
+
+#### Conversational customer communication.
+Humans don't say "I apologise for the inconvenience I've caused". We say "sorry". That's it. We've become acustomed to hearing that spiel because almost every company uses it. But its cold and impersonal. Instead, we speak to people like people. That means we say "I'm sorry" instead of apologising on behalf of the company and we speak to customers like we would to a person in the street. Like a human!
+
+#### Don’t make me think.
+* Why are apps and products often so difficult for people to use? Maybe because the people who made it didn't put their customers needs first. Our first priority is our customers. And that means creating a product that is simple to use, doesn't freak them out and delivers what they expected every time they use it.
+
+#### Intrinsic motivation.
+* When we work on what we are naturally motivated to work on we give our all. Likewise, when we do tasks we aren't motivated for we tend to do only what is required and nothing more. We promise to all of our employees that we will try our best to give them as much time to spend on what motivates them, saving the tasks for others who are more motivated by them.
+
 * Fairness (fair for everybody involved).
+
 * Evening the playing field (factoring is difficult for SME’s. We make it easier).
+
 * The painkiller (using disruptive innovation). Financial pain relief.
+
 * Be in control (financial control). Financial inclusion for SMEs.
-* Be different. Break the status quo. Positively.
+
+#### Be thoughtfully different.
+* We're all for breaking the status quo, but we don't do it just for the sake of it. If something can be drastically improved, we'll take on the challenge. 
+
+
 * Small teams.
-* Automization (do it once, properly. And then not have to do it again, scalability). Automating away the mundane, repetitive and allowing people to do value adding and meaningful work. 
+
+* Automization (do it once, properly. And then not have to do it again, scalability). Automating away the mundane, repetitive and allowing people to do value adding and meaningful work.
+
 * Data-driven decision making
+
 * Never, I told you so

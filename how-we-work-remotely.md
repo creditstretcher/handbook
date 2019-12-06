@@ -61,7 +61,7 @@ You will find the document inside the meeting notes folder. Make a copy of it, a
 
 ### Managers of one
 
-Managing at CreditStretcher is a part-time occupation, next to being involved with doing the work itself. This means we rely on everyone at CreditStretcher to do a lot of self-management. People who do this well qualify as managers of one, and we strive for everyone senior or above to embody this principle fully.
+Managing at CreditStretcher is a part-time occupation, next to being involved with doing the work itself. This means we rely on everyone at CreditStretcher to do a lot of self-management. People who do this well qualify as managers of one, and we strive for everyone to embody this principle fully.
 
 That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
 

@@ -25,13 +25,7 @@ Send the message to all the relevant parties. Use Slack Channels as much as poss
 
 **All communication and material must be in English**
 
-### Managers of one
 
-Managing at CreditStretcher is a part-time occupation, next to being involved with doing the work itself. This means we rely on everyone at CreditStretcher to do a lot of self-management. People who do this well qualify as managers of one, and we strive for everyone senior or above to embody this principle fully.
-
-That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
-
-We do not tolerate micromanaging.
 
 ### Video calls
 Some issues are just better discussed over video chat and feel free to setup meetings if you feel it's necessary.
@@ -62,3 +56,13 @@ To create a note document quickly and to help with the right formatting it is re
 You will find the document inside the meeting notes folder. Make a copy of it, and fill in the values.
 
 🚫 Don't edit the original document 
+
+## Management
+
+### Managers of one
+
+Managing at CreditStretcher is a part-time occupation, next to being involved with doing the work itself. This means we rely on everyone at CreditStretcher to do a lot of self-management. People who do this well qualify as managers of one, and we strive for everyone senior or above to embody this principle fully.
+
+That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
+
+We do not tolerate micromanaging.

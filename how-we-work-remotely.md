@@ -2,7 +2,7 @@
 
 This section is about how we work remotely
 
-For the reasoning behind why we choose remote work please read: [Why Remote?](https://github.com/creditstretcher/handbook/blob/master/why-remote.md)
+For the reasoning behind why we choose remote work, please read: [Why Remote?](https://github.com/creditstretcher/handbook/blob/master/why-remote.md)
 
 
 ## Communication

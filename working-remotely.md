@@ -32,6 +32,8 @@ Managing at CreditStretcher is a part-time occupation, next to being involved wi
 
 That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
 
+We do not tolerate micomanaging.
+
 ### Video calls
 Some issues are just better discussed over video chat and feel free to setup meetings if you feel it's necessary.
 

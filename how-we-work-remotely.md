@@ -1,4 +1,4 @@
-# Working Remotely
+# How we work (remotely)
 
 This section is about how we work remotely
 
@@ -7,17 +7,16 @@ For the reasoning behind why we choose remote work please read: [Why Remote?](ht
 
 ## Communication
 
-### Asynchronous
+### Asynchronously
 
 One of the great benefits of working remotely is that you don't get disturbed all the time as you would in an office by somebody tapping your shoulder. This is something that we value and protect. 
 
-We try to keep as much as possible of our communication asynchronous. By asynchronous we mean a form of communication that doesn't require all the parties to be available at the same time. 
+We try to keep as much of our communication asynchronous as possible. By asynchronous, we mean a form of communication that doesn't require all of the parties to be available at the same time. 
 Example: Slack and Email
 
 This also fits better with employees working in multiple timezones and varying work hours.
 
-
-When you communicate asynchronous it's very important to eliminate as much as possible of the back and forth, because there can be long delays. To do this ensure that you write a thorough message that contains all the information and where you have though about if the receiving party is able to understand it.
+When you communicate asynchronously, it's very important to eliminate as much as possible of the back and forth, because there can be long delays. To do this, please ensure that you write a thorough message that contains all of the information. Therefore, it makes sense to give yourself time to think through each point thoroughly when there is no requirement for an immediate reply.
 
 Send the message to all the relevant parties. Use Slack Channels as much as possible. Think about not excluding 
 
@@ -32,7 +31,7 @@ Managing at CreditStretcher is a part-time occupation, next to being involved wi
 
 That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
 
-We do not tolerate micomanaging.
+We do not tolerate micromanaging.
 
 ### Video calls
 Some issues are just better discussed over video chat and feel free to setup meetings if you feel it's necessary.

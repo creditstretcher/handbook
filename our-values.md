@@ -1,5 +1,10 @@
-# OUR COMPANY VALUES
+# OUR MISSION, VISION AND VALUES
 
+## OUR MISSION
+To offer SMEs the fastest, easiest and fairest finance.
+
+## OUR VISION
+To enable SMEs throughout the world to realize their full potential and be in greater financial control through innovative financial products and services.
 
 ### We want to be the world's best and want to achieve audacious goals
 * We are playing to win and NOT to stay safe

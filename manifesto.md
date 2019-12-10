@@ -23,7 +23,7 @@ These are the core values shared by everyone at CreditStretcher. Values we fight
 * For too long marketers and advertisers have manipulated people to buy things they don't need. We promise to our customers to communicate to them with empathy and to provide them only what they (really) need.
 
 #### A Calm Company
-* Being busy isn't a badge of honour. It just proves we haven't organised ourselves effectively. Chaos should not be the natural state at work. Anxiety isn’t a prerequisite for progress. Sitting in meetings all day isn’t required for success. These are all perversions of work — side effects of broken models and follow-the-lemming-off-the-cliff worst practices. Step aside and let the suckers jump - Jason Fried.
+* Chaos should not be the natural state at work. Anxiety isn’t a prerequisite for progress. Sitting in meetings all day isn’t required for success. These are all perversions of work — side effects of broken models and follow-the-lemming-off-the-cliff worst practices. Step aside and let the suckers jump - Jason Fried.
 
 #### Knowledge sharing and education.
 * Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime. Our absolute goal is to make SMEs financially literate so that they can grow sustainably.

@@ -2,6 +2,12 @@
 
 ## Business finance sucks. We make it suck less.
 
+### Our Mission:
+To offer SMEs the fastest, easiest and fairest finance.
+
+### Our Vision:
+To enable SMEs throughout the world to realize their full potential and be in greater financial control through innovative financial products and services.
+
 We are CreditStretcher. And these are the things we believe in.
 
 These are the core values shared by everyone at CreditStretcher. Values we fight for every day.

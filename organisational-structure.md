@@ -1,20 +1,10 @@
-# Our Organisational Structure Pre-seed to Seed
+# Our Organisational Structure
 
-![alt Organisational Structure Chart](https://github.com/creditstretcher/handbook/blob/master/assets/images/organisation-structure-%20preseed-to-seed.JPG?raw=true)
-
-_Green: advisory board/board_
-
-_Red: current employees_
-
-_Orange/yellow: who we need to hire next for this phase_
-
-# **Explanation of Organisational Chart**
-The Blue Triangle is the internal CreditStretcher organisation = “THE MACHINE” that produces our value hereby attaining our goals.
 
 # The Organisation “MACHINE” is divided into 4 Parts:
 
 ## **1. Top lvl Management:**
-(N/A until after Seed round is raised)
+(N/A for now)
 
 ## **2. Organisational Management (OM)**
 **The ultimate responsible parties (Co-Founders) for CreditStretcher’s success, holds the majority of shares and voting rights.**

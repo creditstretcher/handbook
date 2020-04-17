@@ -26,7 +26,7 @@ There are major working benefits to working remotely...
 
 On top of the working benefits we believe that the following reasons make for a much happier and healthier personal life, too.
 
-##While working remotely, you can...
+## While working remotely, you can...
 
 - Hug your kids and feed them breakfast before they leave for school in the morning.
 - Greet and make a snack for them when they get home; hear all about their day.
@@ -40,4 +40,3 @@ On top of the working benefits we believe that the following reasons make for a 
 - Focus without interruption.
 - Set your own schedule.
 - Do yoga in the middle of the day to set yourself up for a great working afternoon.
-
